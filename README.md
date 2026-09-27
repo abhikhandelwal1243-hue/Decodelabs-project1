@@ -109,4 +109,62 @@ Completed
 
 ### Search Task
 
-Select `5` and enter a keyword
+Select `5` and enter a keyword to find matching tasks.
+
+The search is **case-insensitive**, so `python` and `Python` can both find the same task.
+
+### Task Statistics
+
+Select `6` to see:
+
+```text
+--------- STATISTICS ---------
+Total Tasks     : 3
+Completed Tasks : 1
+Pending Tasks   : 2
+```
+
+## 📚 Concepts Practiced
+
+This project demonstrates important Python programming concepts:
+
+* Variables
+* Lists
+* Dictionaries
+* `while` loops
+* `for` loops
+* `if-elif-else`
+* `input()`
+* `print()`
+* `append()`
+* `pop()`
+* String methods
+* Case-insensitive searching
+* Basic data management
+
+## 🎯 Learning Objective
+
+The main objective of this project is to practice **Python fundamentals** by building a practical command-line application for managing tasks.
+
+## 🔮 Future Improvements
+
+Possible improvements include:
+
+* Save tasks permanently using a file or database
+* Add task priorities
+* Add due dates
+* Add task categories
+* Add a graphical user interface (GUI)
+* Add password/user authentication
+* Add task sorting and filtering
+* Prevent invalid numeric input using exception handling
+
+## 👨‍💻 Author
+
+**Abhishek Sharma**
+
+GitHub: `abhikhandelwal1243-hue`
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
